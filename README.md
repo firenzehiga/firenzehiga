@@ -29,6 +29,6 @@
 <div> 
 
  
-  ![Snake animation](https://github.com/firenzehiga/firenzehiga/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/eagrundy/firenzehiga/blob/output/github-contribution-grid-snake.svg)
  
 </div>
