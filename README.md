@@ -13,7 +13,7 @@ I'm passionate about web development, always eager to learn, and ready to make a
 - 💬 Always ready to take on new challenges and learn new technologies.
 
 
-<div style="margin-bottom: 20px; margin-right: 20px;
+<div style="margin-bottom: 20px;
 border-radius: 100px;">
     <img align="right" height="150" src="https://media1.tenor.com/m/LiqhUEDmWcAAAAAC/cute.gif" />
 </div>
@@ -51,7 +51,7 @@ border-radius: 100px;">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firenzehiga&layout=compact&theme=radical)
 
-<img src="https://raw.githubusercontent.com/firenzehiga/firenzehiga/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/firenzehiga/firenzehiga/output/snake.svg" alt="Snake animation" /> -->
 
 ---
 
