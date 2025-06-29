@@ -13,8 +13,9 @@ I'm passionate about web development, always eager to learn, and ready to make a
 - 💬 Always ready to take on new challenges and learn new technologies.
 
 
-<div style="margin-bottom: 20px; margin-right: 20px;">
-    <img align="right" height="150" src="https://media1.tenor.com/m/LiqhUEDmWcAAAAAC/cute.gif" style="border-radius: 10%; margin-bottom: 10px;" />
+<div style="margin-bottom: 20px; margin-right: 20px;
+border-radius: 100px;">
+    <img align="right" height="150" src="https://media1.tenor.com/m/LiqhUEDmWcAAAAAC/cute.gif" />
 </div>
 
 ###
