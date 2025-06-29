@@ -23,9 +23,10 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
-          color_snake: '#39ff14' # warna ular (neon green, bisa diganti)
-          color_dots: '#39ff14,#bdbdbd,#6e40c9,#ff5c57,#f3f99d,#18e1c9'  # warna dot, optional
-          color_empty: '#22223b' # warna grid kosong (gelap), GANTI INI!
+          color_snake: '#39ff14'
+          color_dots: '#39ff14,#bdbdbd,#6e40c9,#ff5c57,#f3f99d,#18e1c9'
+          color_empty: '#161b22'  # <--- PENTING! Ganti warna ini agar gelap
+
 
       - name: Push to output branch
         uses: peaceiris/actions-gh-pages@v4
