@@ -51,7 +51,7 @@ border-radius: 100px;">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firenzehiga&layout=compact&theme=radical)
 
-<!-- <img src="https://raw.githubusercontent.com/firenzehiga/firenzehiga/output/snake.svg" alt="Snake animation" /> -->
+![Contribution](https://github.com/firenzehiga/firenzehiga/blob/output/dist/github-contribution-grid-snake.svg)
 
 ---
 
