@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Firenze Higa
 
 Welcome to my GitHub profile!  
-I'm passionate about web development, always eager to learn, and ready to make an impact as an intern.
+I'm passionate about web development, always eager to learn, and ready to make an impact as an team.
 
 ---
 
@@ -12,17 +12,34 @@ I'm passionate about web development, always eager to learn, and ready to make a
 - 🛠️ I love building both backend and frontend solutions, from robust APIs to beautiful user interfaces.
 - 💬 Always ready to take on new challenges and learn new technologies.
 
----
 
-### 🛠️ Tech I Love
-![Laravel](https://img.shields.io/badge/-Laravel-ff2d20?logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/-React-20232a?logo=react&logoColor=61dafb)
-![PHP](https://img.shields.io/badge/-PHP-777bb4?logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38bdf8?logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-e34c26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572b6?logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-f05032?logo=git&logoColor=white)
+<img align="right" height="150" src="https://media1.tenor.com/m/LiqhUEDmWcAAAAAC/cute.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+</div>
+
+
+###
+
+<div align="left">
+
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
 ---
 
@@ -40,8 +57,8 @@ I'm passionate about web development, always eager to learn, and ready to make a
 ---
 
 ### 📫 Let's Connect!
-- Email: [your.email@domain.com](mailto:your.email@domain.com)
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- Email: [firenzehiga@gmail.com](mailto:firenzehiga@gmail.com)
+- LinkedIn: [linkedin.com/in/firenze-higa-putra](https://www.linkedin.com/in/firenze-higa-putra-286043290/)
 
 ---
 
