@@ -47,7 +47,7 @@ border-radius: 100px;">
 
 ### 📊 GitHub Stats
 
-![Firenze Higa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=firenzehiga&show_icons=true&theme=radical&count_private=true)
+https://github-readme-stats.vercel.app/api?username=firenzehiga&show_icons=true&theme=radical&count_private=true
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firenzehiga&layout=compact&theme=radical)
 
