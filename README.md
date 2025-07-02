@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Firenze Higa
+![Banner](./assets/banner.png)
 
 Welcome to my GitHub profile!  
 I'm passionate about web development, always eager to learn, and ready to make an impact as an team.
