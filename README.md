@@ -52,7 +52,7 @@ border-radius: 100px;">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firenzehiga&layout=compact&theme=radical)
 
-<!-- ![Contribution](https://github.com/firenzehiga/firenzehiga/blob/output/github-contribution-grid-snake.svg) -->
+![Contribution](https://github.com/firenzehiga/firenzehiga/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
