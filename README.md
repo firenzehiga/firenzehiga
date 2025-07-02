@@ -1,11 +1,7 @@
-<div style="margin-bottom: 20px;
-border-radius: 100px;">
-
-<img src="./assets/banner.png" alt="Banner" width="200" height="100" align="right">
-</div>
+![Banner](./assets/banner.png)
+<h1>
 Hi there 👋 I'm Firenze Higa
-
-
+</h1>
 Welcome to my GitHub profile!  
 I'm passionate about web development, always eager to learn, and ready to make an impact as an team.
 
@@ -56,7 +52,7 @@ border-radius: 100px;">
 ![Firenze Higa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=firenzehiga&show_icons=true&theme=radical&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firenzehiga&layout=compact&theme=radical)
 
-![Contribution](https://github.com/firenzehiga/firenzehiga/blob/output/github-contribution-grid-snake-dark.svg)
+![Contribution](https://github.com/firenzehiga/firenzehiga/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
