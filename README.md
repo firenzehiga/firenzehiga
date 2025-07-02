@@ -56,7 +56,7 @@ border-radius: 100px;">
 ![Firenze Higa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=firenzehiga&show_icons=true&theme=radical&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=firenzehiga&layout=compact&theme=radical)
 
-![Contribution](https://github.com/firenzehiga/firenzehiga/blob/output/github-contribution-grid-snake.svg)
+![Contribution](https://github.com/firenzehiga/firenzehiga/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
