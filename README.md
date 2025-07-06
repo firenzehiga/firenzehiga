@@ -17,7 +17,7 @@ I'm passionate about web development, always eager to learn, and ready to make a
 
 <div style="margin-bottom: 20px;
 border-radius: 100px;">
-    <img align="right" height="150" src="https://media1.tenor.com/m/LiqhUEDmWcAAAAAC/cute.gif" />
+    <img align="right" height="50" src="https://media1.tenor.com/m/LiqhUEDmWcAAAAAC/cute.gif" />
 </div>
 
 ### 👨‍💻 Tech Stack
